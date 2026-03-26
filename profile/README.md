@@ -8,7 +8,7 @@ An organization dedicated to reviving the forgotten device of the Motorola-STSM 
 # TODO
 - ~~Fixing bootlooping issues on Motorola MILESTONE 3~~ FIXED as of Feb 17, 2026
 - Fix media playback
-- Fix GSM (cdma will not be fixed)
+- Fix GSM (cdma will not be fixed) -- FIXED on KitKat as of Feb 21, 2026. Still broken on Lollipop and Nougat. 
 - Fix button mapping issues
 - Fix display issues in Nougat
 
