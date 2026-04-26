@@ -10,6 +10,6 @@ An organization dedicated to reviving the forgotten device of the Motorola-STSM 
 - Fix media playback
 - Fix GSM (cdma will not be fixed) -- FIXED on KitKat as of Feb 21, 2026. Still broken on Lollipop and Nougat. 
 - Fix button mapping issues
-- Fix display issues in Nougat
+- Fix display issues in Marshmallow and Nougat
 
 If you have any requests, please open an issue or PR!
